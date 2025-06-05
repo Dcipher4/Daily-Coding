@@ -1,1 +1,1 @@
-# Daily-Coding
+# Learn Everyday
