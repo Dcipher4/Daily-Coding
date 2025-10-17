@@ -1,0 +1,10 @@
+employee-turnover-analytics/
+│
+├── Dataset/
+│   └── HR_comma_sep.csv
+│
+├── Employee_Turnover_Analytics.ipynb
+│
+├── README.md
+│
+└── requirements.txt
